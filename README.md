@@ -43,7 +43,7 @@ a high performance redis-sentinel client for php based on phpredis extension.
             ]
         ];
 
-        $sentinel = Sentinel::getInstance($policy);
+        $sentinel = RedisSentinel::getInstance($policy);
 
         // ping
         $ret = $sentinel->ping();
