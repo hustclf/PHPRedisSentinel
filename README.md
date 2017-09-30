@@ -1,7 +1,7 @@
 # PHPRedisSentinel
 
 a high performance redis-sentinel client for php based on phpredis extension.
-(Inspired by <a href="https://github.com/huyanping/redis-sentinel">redis-sentinel</a>)
+(<a href="https://hustclf.github.io/">hustclf.github.io</a>)
 
 ## advantages
 ### 1. singleton pattern
